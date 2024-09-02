@@ -1,7 +1,7 @@
 # Hannah Rieder
 
 <img
-    src="/`img/Rieder_Headshot.JPG"
+    src="/img/Rieder_Headshot.JPG"
     alt="Hannah Rieder Headshot"
     width="25%">
     
