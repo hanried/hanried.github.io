@@ -1,5 +1,7 @@
 # Hannah Rieder
 
+![Hannah Rieder Headshot](/`img/Rieder_Headshot.JPG)
+    
 ## Biography:
 
 Welcome! Currently, I am a Research Administrator for the [Office of Contracts & Grants](https://www.colorado.edu/ocg/) at the University of Colorado Boulder (CU Boulder). I've been a Research Administrator since August 2022. Before then, I taught high school math from January 2020 to May 2022. I graduated from CU Boulder in December 2019 with a Bachelor of Arts in Mathematics, my Secondary Teaching License, and a minor in Ecology and Evolutionary Biology. 
