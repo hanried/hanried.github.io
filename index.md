@@ -3,7 +3,7 @@
 <img
     src="/`img/Rieder_Headshot.JPG"
     alt="Hannah Rieder Headshot"
-    width="15%">
+    width="25%">
     
 ## Biography:
 
