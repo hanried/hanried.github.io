@@ -1,2 +1,2 @@
-# reidhan.github.io
+# hanried.github.io
 repo for Hannah Rieder's projects
