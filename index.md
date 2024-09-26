@@ -13,9 +13,13 @@ I'm excited to re-engage some of my math critical thinking skills via coding and
 
 I lived in Minnesota for the first part of my life and have lived in the Boulder/Longmont area for the last 17 years. I am appreciative of Colorado's mild winters and the lengthy ski season, especially at Arapahoe Basin. Outside of skiing, I also love to read various subgenres of fiction. My most recent favorite book is *Four Treasures of the Sky* by Jenny Tinghui Zhang. Over the last couple of years, I've also been taking pottery wheel classes. I have made many bowls, plates, a few mugs, and some lidded forms.
 
-## Interactive map of my alma mater, University of Colorado Boulder:
-<embed type="text/html" src="img/cubld.html" width="600" height="600">
-
 ## Contact Information:
 * Email: hannah.rieder@colorado.edu
 * [LinkedIn](https://www.linkedin.com/in/hannah-rieder-8b58b5240/)
+
+## Projects:
+* Analysis of Snowfall in Dillon, Colorado from water year 1910 to water year 2023:
+    * Interactive Graph of the Total Snowfall in inches for each Water Year from 1910 to 2023 in Dillon, Colorado:
+      <embed type="text/html" src="earth_data_analytics_assignments/Total Snowfall in inches for each Water Year from 1910 to 2023 in Dillon, Colorado Interactive Plot.html" width="600" height="600">
+* Interactive map of my alma mater, University of Colorado Boulder:
+<embed type="text/html" src="img/cubld.html" width="600" height="600">
