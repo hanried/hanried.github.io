@@ -19,7 +19,7 @@ I lived in Minnesota for the first part of my life and have lived in the Boulder
 
 ## Projects:
 * Analysis of Snowfall in Dillon, Colorado from water year 1910 to water year 2023:
-    * [Full analysis include code and plots](https://hanried.github.io/earth_data_analytics_assignments/08_climate_coding_challenge_dillon_colorado_portfolio.html)
+    * [Full analysis including code and plots](https://hanried.github.io/earth_data_analytics_assignments/08_climate_coding_challenge_dillon_colorado_portfolio.html)
     * Interactive Graph of the Total Snowfall in inches for each Water Year from 1910 to 2023 in Dillon, Colorado:
       <embed type="text/html" src="earth_data_analytics_assignments/Total Snowfall in inches for each Water Year from 1910 to 2023 in Dillon, Colorado Interactive Plot.html" width="800" height="600">
 * Interactive map of my alma mater, University of Colorado Boulder:
