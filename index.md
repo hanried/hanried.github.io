@@ -18,6 +18,11 @@ I lived in Minnesota for the first part of my life and have lived in the Boulder
 * [LinkedIn](https://www.linkedin.com/in/hannah-rieder-8b58b5240/)
 
 ## Projects:
+* Analysis of the migration of the American White Pelican, *Pelecanus erythrorhynchos*, in 2023 via an interactive plot.
+    * [Full analysis]()
+    * PLOT
+    * PLOT HEADLINE
+    * PLOT DESCRIPTION
 * Analysis of Snowfall in Dillon, Colorado from water year 1910 to water year 2023:
     * [Full analysis including code and plots](https://hanried.github.io/earth_data_analytics_assignments/08_climate_coding_challenge_dillon_colorado_portfolio.html)
     * Interactive Graph of the Total Snowfall in inches for each Water Year from 1910 to 2023 in Dillon, Colorado:
