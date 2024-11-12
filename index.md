@@ -21,7 +21,7 @@ I lived in Minnesota for the first part of my life and have lived in the Boulder
 * Analysis of the migration of the American White Pelican, *Pelecanus erythrorhynchos*, in 2023 via an interactive plot.
     * [Full analysis]()
     * Interactive plot:
-      <embed type="text/html" src="earth_data_analytics_assignments/pe_migration_plot.html" width="1000" height="600">
+      <embed type="text/html" src="earth_data_analytics_assignments/pe_migration_plot.html" width="1200" height="600">
     * PLOT HEADLINE
     * PLOT DESCRIPTION
 * Analysis of Snowfall in Dillon, Colorado from water year 1910 to water year 2023:
