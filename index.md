@@ -19,11 +19,11 @@ I lived in Minnesota for the first part of my life and have lived in the Boulder
 
 ## Projects:
 * Analysis of the migration of the American White Pelican, *Pelecanus erythrorhynchos*, in 2023 via an interactive plot.
-    * [Full analysis]()
+    * [Full analysis including data and methods descriptions, code, and interactive plot here](https://hanried.github.io/earth_data_analytics_assignments/05_pelican_migration.html).
     * Interactive plot:
       <embed type="text/html" src="earth_data_analytics_assignments/pe_migration_plot.html" width="1200" height="900">
-    * PLOT HEADLINE
-    * PLOT DESCRIPTION
+    * #### **The American White Pelican migrates throughout Central and North America over the course of a year.**
+    * The plot above shows a few different noteable things. First, there is a presence of American White Pelicans in Florida throughout the whole year. Although, there is a stronger presence from December to March. This makes sense as the Gulf of Mexico is a popular spot for pelicans to winter in. Second, you can see the pelicans' migration demonstrated from March to June as the large amounts of occurrences shift from southern America and Central America up toward northern America and southern Canada. In June, the pelicans had an especially strong precense in northern America and southern Canada while the coasts of central America had much fewer populations.In July, you can see the populations begin to shift back toward southern and Central America.
 * Analysis of Snowfall in Dillon, Colorado from water year 1910 to water year 2023:
     * [Full analysis including code and plots](https://hanried.github.io/earth_data_analytics_assignments/08_climate_coding_challenge_dillon_colorado_portfolio.html)
     * Interactive Graph of the Total Snowfall in inches for each Water Year from 1910 to 2023 in Dillon, Colorado:
