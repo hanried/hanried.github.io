@@ -18,7 +18,7 @@ I lived in Minnesota for the first part of my life and have lived in the Boulder
 * [LinkedIn](https://www.linkedin.com/in/hannah-rieder-8b58b5240/)
 
 ## Projects:
-* [Analysis of Redlining and Normalized Difference Vegetation Index (NDVI) in San Francisco, California](https://hanried.github.io/earth_data_analytics_assignments/san-francisco-redlining-post-final.html)
+* [Analysis of Redlining and Normalized Difference Vegetation Index (NDVI) in San Francisco, California](https://github.com/earthlab-education/fundamentals-04-redlining-hanried/blob/main/san-francisco-redlining-post.md)
 * Analysis of the migration of the American White Pelican, *Pelecanus erythrorhynchos*, in 2023 via an interactive plot.
     * [Full analysis including data and methods descriptions, code, and interactive plot here](https://hanried.github.io/earth_data_analytics_assignments/05_pelican_migration.html).
     * Interactive plot:
